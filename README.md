@@ -1,7 +1,7 @@
 # Greetings! 👋
 
 ## ‼️ About Me
-Hey, I'm [Arik](https://arikkarim.com/)--I'm a student @ George Washington University's Elliott School of International Affairs. When I'm not busy building govtech or conducting public policy research, you can find me speedcubing, practicing cardistry, and studying Japanese while sipping on an iced matcha latte! 
+Hey, I'm [Arik](https://arikkarim.com/)——I'm a student @ George Washington University's Elliott School of International Affairs. When I'm not busy building govtech or conducting public policy research, you can find me speedcubing, practicing cardistry, and studying Japanese while sipping on an iced matcha latte! 
 
 ## 🔨 Projects
 - [Donorsmith](https://donorsmith.com/) (WIP) - an AI integration layer for nonprofit CRMs.*
