@@ -10,5 +10,5 @@ Hey, I'm [Arik](https://arikkarim.com/)—I'm a student @ George Washington Univ
 - [Terac](http://terac.com/) - an agentic AI platform for market research. Raised $1M+ pre-seed.**
 - [Sway](https://www.sway.co/) - a group voting network to mobilize those who share your views using voter-verified influence.**
 
-*Denotes project creator/founder.  
+*Denotes project creator/co-founder.  
 **Denotes project contributor.
